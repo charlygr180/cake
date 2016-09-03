@@ -257,6 +257,7 @@ switch (ENVIRONMENT)
 			trim($application_folder, '/\\'),
 			'/\\',
 			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			
 		);
 	}
 	else
